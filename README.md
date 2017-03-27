@@ -2,7 +2,7 @@
 
 This repository accompanies [*Beginning C*](http://www.apress.com/9781430243625) by Ivor Horton (Apress, 2011).
 
-![Cover image](9781430243625.jpg)
+[comment]: #cover
 
 Download the files as a zip using the green button, or clone the repository to your machine using Git.
 
